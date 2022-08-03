@@ -9,3 +9,4 @@ was fun project
 
 live at :
 https://62eac57b9df3d70263199dea--multi-wallets-dashboard.netlify.app
+https://multi-eth-wallets-js5acijqn-syahbes.vercel.app
