@@ -7,7 +7,7 @@ I had to use API call
 and I prefer to write the app with ReactJS
 was fun project
 
-[![image.png](https://i.postimg.cc/rF3RYTHX/image.png)](https://postimg.cc/PPbqPgh2)
+<img src="https://i.postimg.cc/rF3RYTHX/image.png">
 
 live at :
 https://62eac57b9df3d70263199dea--multi-wallets-dashboard.netlify.app
