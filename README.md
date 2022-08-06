@@ -7,6 +7,8 @@ I had to use API call
 and I prefer to write the app with ReactJS
 was fun project
 
+[![fullView.png](https://i.postimg.cc/gjNY3cbX/fullView.png)](https://postimg.cc/LggKppX2)
+
 live at :
 https://62eac57b9df3d70263199dea--multi-wallets-dashboard.netlify.app
 
